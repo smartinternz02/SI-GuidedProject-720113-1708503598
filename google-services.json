@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48248187700",
+    "project_id": "walletexpencetracker",
+    "storage_bucket": "walletexpencetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48248187700:android:261fbd30bba239664b1361",
+        "android_client_info": {
+          "package_name": "com.babacode.walletexpensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnp4lj2uOFB9em9RQCJ8wrByteJmWJ630"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
